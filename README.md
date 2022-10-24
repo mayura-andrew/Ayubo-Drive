@@ -1,9 +1,7 @@
 # This is my first developed software using .NET,C# and MSSQL
 This solution was for my 1st semester Programming assignment. 
 Assignment Scenario.
-
 Ayubo Drive is the transport arm of Ayubo Leisure (Pvt) Ltd, an emerging travel & tour company in Sri Lanka. It owns a fleet of vehicles ranging from cars, SUVs to vans.
-
 The vehicles that it owns are hired or rented with or without a driver. The tariffs are based on the vehicle type. Some of the vehicle types that it operates are, small car, sedan car, SVUs, Jeep (WD), 7-seater van and Commuter van. New vehicle types are to be added in the future.
 
 Vehicle rent and hire options are described below.
