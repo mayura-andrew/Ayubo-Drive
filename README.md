@@ -22,7 +22,7 @@ Function 3: Long tour - hire calculation.
 Calculate total hire_value when vehicle_no, package_type, start_date, end_date, start_km_reading, end_km_reading parameters are sent in. Should return base_hire_charge, overnight_stay_charge and extra_km_charge as output parameters.
 I added below additional functions to my system.
 
-Function 4 : Payment History 
+Function 4 : Payment History,
 Function 5 : Creating new users 
 
 
