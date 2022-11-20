@@ -1,4 +1,4 @@
-# This is a my first developed software using .NET,C# and MSSQL
+# This is my first developed software using .NET,C# and MSSQL
 This solution was for my 1st semester Programming assignment. 
 Assignment Scenario.
 Ayubo Drive is the transport arm of Ayubo Leisure (Pvt) Ltd, an emerging travel & tour company in Sri Lanka. It owns a fleet of vehicles ranging from cars, SUVs to vans.
